@@ -44,6 +44,7 @@
             System.out.println("VALOR INVÁLIDO");
 ```
 # questao3
+```java
         //Declaração das variáveis 
         double hora;
         Scanner ler = new Scanner(System.in);
@@ -61,9 +62,9 @@
             System.out.println("Boa noite!");
         } else 
             System.out.println("Número INVALIDO");
-
+```
 # questao4
-
+```java
         int nota;
         Scanner ler = new Scanner (System.in);
         
@@ -81,7 +82,7 @@
         } else 
             System.out.println("Nota inválida, apenas de 0 a 100.");
 
-
+```
 # questao5
         double valorA, valorB, valorC;
         Scanner ler = new Scanner (System.in);
