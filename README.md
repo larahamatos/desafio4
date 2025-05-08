@@ -24,6 +24,7 @@
             System.out.println("Não tem idade o suficiente.");
 ```
 # questao2
+```java
         //Declaração das variáveis
         double produto, produtoDesconto;
         Scanner ler = new Scanner (System.in);
@@ -41,7 +42,7 @@
             System.out.println("Valor final do produto: "+produtoDesconto);
         } else {
             System.out.println("VALOR INVÁLIDO");
-
+```
 # questao3
         //Declaração das variáveis 
         double hora;
