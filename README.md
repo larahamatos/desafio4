@@ -1,5 +1,5 @@
 # desafio4
-
+```java
 # questao1
         //Declaração das variáveis
         int idade;
@@ -22,6 +22,7 @@
             System.out.println("Categoria: Adulto");
         } else 
             System.out.println("Não tem idade o suficiente.");
+```
 # questao2
         //Declaração das variáveis
         double produto, produtoDesconto;
